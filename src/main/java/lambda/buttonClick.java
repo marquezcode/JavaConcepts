@@ -1,7 +1,7 @@
 package lambda;
 
 import java.awt.*;
-public class lambda0 {
+public class buttonClick {
     public static void main(String[] args) {
         Frame frame = new Frame("Java - 8 Action-listener");
 
